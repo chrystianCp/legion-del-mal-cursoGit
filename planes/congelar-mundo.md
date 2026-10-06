@@ -10,3 +10,18 @@ pasos
 44
 
 este es el placn de congelar
+
+
+1
+
+3
+44
+
+este es el placn de congelar
+
+1
+
+3
+44
+
+este es el placn de congelar
