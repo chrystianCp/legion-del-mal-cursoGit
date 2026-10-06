@@ -6,3 +6,9 @@ Estos son los planes.
 
 planes con numero 
 
+#   pasos
+
+uno 
+dos
+tres
+cuatro
