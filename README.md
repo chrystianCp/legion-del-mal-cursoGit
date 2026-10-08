@@ -5,7 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/chrystianCp/legion-del-mal-cursoGit)
 ![Issues](https://img.shields.io/github/issues/chrystianCp/legion-del-mal-cursoGit)
 ![Último commit](https://img.shields.io/github/last-commit/chrystianCp/legion-del-mal-cursoGit)
-![Licencia](https://img.shields.io/github/license/chrystianCp/legion-del-mal-cursoGit)
+![Licencia](https://img.shields.io/github/license/chrystianCp/legion-del-mal-cursoGit?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
