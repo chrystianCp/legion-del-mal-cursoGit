@@ -8,6 +8,7 @@
 ![Licencia](https://img.shields.io/github/license/chrystianCp/legion-del-mal-cursoGit?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal - Desde local 
+### Este es un grupo dedicato a aprender git + github
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
