@@ -22,3 +22,7 @@ La película de Spider-Man mejor puntuada en Rotten Tomatoes es *Spider-Man: Int
 - *Spider-Man: Into the Spider-Verse* (2018)
 - *Spider-Man: No Way Home* (2021)
 
+### Mejor traje del multiverso
+
+El mejor traje de Spider-Man entre los multiversos es el de Miles Morales, con su diseño negro y rojo.
+
